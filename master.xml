@@ -71,6 +71,10 @@ Your sources have been sync'd successfully.
            name="coreos/etcd"
            groups="minilayout" />
 
+  <project path="src/third_party/rocket"
+           name="coreos/rocket"
+           groups="minilayout" />
+
   <project path="src/third_party/fleet"
            name="coreos/fleet"
            groups="minilayout" />
